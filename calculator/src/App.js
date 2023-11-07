@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div>App Component</div>
+    <div>App Component header</div>
   )
 }
 
